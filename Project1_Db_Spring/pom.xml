@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.buta</groupId>
-    <artifactId>VTP_Spring</artifactId>
+    <artifactId>Project1_Db_Spring</artifactId>
     <version>0.0.1</version>
-    <name>VTP_Spring</name>
+    <name>Project1_Db_Spring</name>
     <properties>
         <java.version>11</java.version>
     </properties>
